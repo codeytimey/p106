@@ -1,0 +1,15 @@
+#heads{
+background-color: coral;
+}
+
+#title{
+    font-family:fantasy;
+}
+
+#note{
+    font-family:cursive;
+}
+
+.main_div{
+    background: darkcyan;
+}
